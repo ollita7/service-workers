@@ -1,0 +1,11 @@
+CACHE MANIFEST
+CACHE:
+# sw.group: html
+# sw.group: css
+# sw.hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+/styles\styles.css
+# sw.group: js
+# sw.hash: da39a3ee5e6b4b0d3255bfef95601890afd80709
+/js\custom.js
+NETWORK:
+*
